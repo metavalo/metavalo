@@ -1,0 +1,17 @@
+
+/* ==== Típus szelektor ==== */
+img {
+  width: 250px;
+  height: 250px
+}
+/* ==== ID szelektor ==== */
+
+#second-paragraph {
+  background-color: blue;
+  color: white
+}
+/* ==== csoport szelektor ==== */
+
+.title-h2 {
+  color: blue
+}
